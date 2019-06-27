@@ -26,7 +26,7 @@ IDIOT-PROOF EDITION
 
 # Theoretical minimum
 
-## 1. Discriminant functions. Write out discriminant functions for multiclass linear classifier and K-NN.
+## 1. Discriminant functions. Write out discriminant functions for multiclass linear classifier and K-NN. <a name="tm1"></a>
 
 ![image alt text](img/image_1.png)
 
@@ -147,7 +147,7 @@ Feature standartization (Z-score normalization): подгонка признак
 
 ##  4. Give definition (of) discriminant functions. Discriminant function for K-NN, linear models and decision tree? 
 
-См. [Theoretical minimum #1](#heading=h.iagag5jvtcr9) для KNN/linear.
+См. [Theoretical minimum #1](#tm1) для KNN/linear.
 
 ##  5. L1 and L2 regularizations. Reasons to use them.
 
