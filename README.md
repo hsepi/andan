@@ -9,6 +9,7 @@ IDIOT-PROOF EDITION
 
 [PDF без регистрации и СМС!!!](andan.pdf)
 
+*// TODO:* %username%, исправь пожалуйста ссылки и сделай pull-request. Спасибо.
 
 Основная цель репы - описать все вещи настолько простыми словами, насколько возможно.
 
@@ -26,7 +27,7 @@ IDIOT-PROOF EDITION
 
 # Theoretical minimum
 
-## 1. Discriminant functions. Write out discriminant functions for multiclass linear classifier and K-NN. <a name="tm1"></a>
+## <a name="tm1"></a>1. Discriminant functions. Write out discriminant functions for multiclass linear classifier and K-NN. 
 
 ![image alt text](img/image_1.png)
 
